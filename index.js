@@ -22,11 +22,11 @@ const rl = createInterface(process.stdin, process.stdout)
 //const app = express()
 //const port = process.env.PORT || 8080;
 
-say('IGNA\nBOT', {
+say('VAMOS AL GYM BRO', {
 font: 'chrome',
 align: 'center',
 gradient: ['red', 'magenta']})
-say(`bot desarrollado por daniel\ncolaborador: diego\ncolaboradora: ayra\ncolaborador: ax\ncolaborador: alba`, {
+say(`Gordo teton hamrbiento`, {
 font: 'console',
 align: 'center',
 gradient: ['red', 'magenta']});
