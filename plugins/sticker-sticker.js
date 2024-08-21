@@ -49,9 +49,9 @@ let handler = async (m, { conn, args, usedPrefix, command }) => {
           externalAdReply: {
             showAdAttribution: false,
             title: 'ＭＩＺＵＫＩ | ＢＯＴ',
-            body: `ᴅᴇᴠᴇʟᴏᴘᴇʀ: ʙᴇɴᴊᴀᴍɪɴ`,
+            body: `𝐕𝐀𝐘𝐀𝐍 𝐀𝐋 𝐆𝐘𝐌 𝐁𝐑𝐎𝐒: ʙᴇɴᴊᴀᴍɪɴ`,
             mediaType: 2,
-            sourceUrl: 'https://whatsapp.com/channel/0029VajUEsCB4hdNTg04zh1u', // Enlace actualizado
+            sourceUrl: 'https://chat.whatsapp.com/IQthSTc0F9Y7LSRXkyx8j5', // Enlace actualizado
             thumbnail: imagen1
           }
         }

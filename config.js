@@ -11,24 +11,24 @@ import { en, es, id, ar, pt } from './lib/idiomas/total-idiomas.js'
 //⊱ ━━━━━.⋅ Añada los numeros a ser Propietario/a ⋅.━━━━ ⊰
 
 global.owner = [ 
-['56986838842', '𝐃𝐄𝐕𝐄𝐋𝐎𝐏𝐄𝐑 𝐏𝐀𝐎𝐋𝐎', true],
+['56986444838842', '𝐃𝐄𝐕𝐄𝐋𝐎𝐏𝐄𝐑 𝐏𝐀𝐎𝐋𝐎', true],
 ['5493751366296', '𝐃𝐄𝐕𝐄𝐋𝐎𝐏𝐄𝐑 𝐃𝐈𝐀𝐍𝐀', true],
-['51936732723'],
-['51936732723'],
-['51936732723'],
-['51936732723'],
-['51936732723'],
-['51936732723'],
-['51936732723'], 
-['51936732723'],
-['51936732723'],
-['51936732723'],
-['51936732723'],
-['51936732723']]
+['519367333273'],
+['519367333273'],
+['519367333273'],
+['519367333273'],
+['519367333273'],
+['519367333273'],
+['519367333273'], 
+['519367333273'],
+['519367333273'],
+['519367333273'],
+['519367333273'],
+['519367333273']]
 
-global.mods = ['56986838842']
-global.prems = ['56986838842'],
-global.suittag = ['56986838842']
+global.mods = ['56986444838842']
+global.prems = ['56986444838842'],
+global.suittag = ['56986444838842']
 
 //BETA: Si quiere evitar escribir el número que será bot en la consola, agregué desde aquí entonces:
 //Sólo aplica para opción 2 (ser bot con código de texto de 8 digitos)
@@ -54,7 +54,7 @@ global.keysxteammm = ['29d4b59a4aa687ca', '5LTV57azwaid7dXfz5fzJu', 'cb15ed422c7
 global.keysxteam = keysxteammm[Math.floor(keysxteammm.length * Math.random())]
 global.keysneoxrrr = ['5VC9rvNx', 'cfALv5']
 global.keysneoxr = keysneoxrrr[Math.floor(keysneoxrrr.length * Math.random())]
-global.lolkeysapi = 'GataDios'
+global.lolkeysapi = 'GordoTeton'
 global.itsrose = ['4b146102c4d500809da9d1ff']
 global.baileys = '@whiskeysockets/baileys'
 
@@ -100,8 +100,8 @@ global.moment = moment
 
 //⊱ ━━━━━.⋅ Sticker WM ⋅.━━━━ ⊰
 
-global.packname = '𝐒𝐘𝐒𝐓𝐄𝐌 𝐗'
-global.author = '{\n "bot": {\n   "name": "ꜱʏꜱᴛᴇᴍ x",\n     "author": "ᴅᴇᴠᴇʟᴏᴘᴇʀ x",\n   "status_bot": "active"\n }\n}'
+global.packname = '𝐁𝐄𝐍𝐉𝐀 𝐆𝐎𝐑𝐃𝐎 𝐓𝐄𝐓𝐎𝐍'
+global.author = '{\n "bot": {\n   "name": "ꜱʏꜱᴛᴇᴍ x",\n     "author": "𝐕𝐀𝐘𝐀𝐍 𝐀𝐋 𝐆𝐘𝐌 𝐁𝐑𝐎𝐒 x",\n   "status_bot": "active"\n }\n}'
 
 
 //* *******Tiempo***************
@@ -118,23 +118,23 @@ global.saludo = "" + hour;
 
 //⊱ ━━━━━.⋅ Versión | Nombre | cuentas ⋅.━━━━ ⊰
 
-global.lb = '𝐒𝐘𝐒𝐓𝐄𝐌 𝐗'
+global.lb = '𝐁𝐄𝐍𝐉𝐀 𝐆𝐎𝐑𝐃𝐎 𝐓𝐄𝐓𝐎𝐍'
 global.vs = '1.5.7'
 global.vsJB = '1.5.0'
-global.yt = 'https://whatsapp.com/channel/0029VajUEsCB4hdNTg04zh1u'
-global.ig = 'https://whatsapp.com/channel/0029VajUEsCB4hdNTg04zh1u'
-global.md = 'https://whatsapp.com/channel/0029VajUEsCB4hdNTg04zh1u'
-global.fb = 'https://whatsapp.com/channel/0029VajUEsCB4hdNTg04zh1u'
+global.yt = 'https://chat.whatsapp.com/IQthSTc0F9Y7LSRXkyx8j5'
+global.ig = 'https://chat.whatsapp.com/IQthSTc0F9Y7LSRXkyx8j5'
+global.md = 'https://chat.whatsapp.com/IQthSTc0F9Y7LSRXkyx8j5'
+global.fb = 'https://chat.whatsapp.com/IQthSTc0F9Y7LSRXkyx8j5'
 
-global.nna = 'https://whatsapp.com/channel/0029VajUEsCB4hdNTg04zh1u' //Actualización, información sobre el bot
-global.nn = 'https://whatsapp.com/channel/0029VajUEsCB4hdNTg04zh1u' //Grupo 1
-global.nnn = 'https://whatsapp.com/channel/0029VajUEsCB4hdNTg04zh1u' //Grupo 2
-global.nnnt = 'https://whatsapp.com/channel/0029VajUEsCB4hdNTg04zh1u' //Grupo del Colaboracion
-global.nnnt2 = 'https://whatsapp.com/channel/0029VajUEsCB4hdNTg04zh1u' // Grupo COL 2
-global.nnntt = 'https://whatsapp.com/channel/0029VajUEsCB4hdNTg04zh1u' //Grupo COL 3
-global.nnnttt = 'https://whatsapp.com/channel/0029VajUEsCB4hdNTg04zh1u' //Canal MonkiBot
-global.nnntttt = 'https://whatsapp.com/channel/0029VajUEsCB4hdNTg04zh1u' //Grupo ayuda sobre el bot
-global.asistencia = 'wa.me/51936732723' //Dudas? escríbeme...
+global.nna = 'https://chat.whatsapp.com/IQthSTc0F9Y7LSRXkyx8j5' //Actualización, información sobre el bot
+global.nn = 'https://chat.whatsapp.com/IQthSTc0F9Y7LSRXkyx8j5' //Grupo 1
+global.nnn = 'https://chat.whatsapp.com/IQthSTc0F9Y7LSRXkyx8j5' //Grupo 2
+global.nnnt = 'https://chat.whatsapp.com/IQthSTc0F9Y7LSRXkyx8j5' //Grupo del Colaboracion
+global.nnnt2 = 'https://chat.whatsapp.com/IQthSTc0F9Y7LSRXkyx8j5' // Grupo COL 2
+global.nnntt = 'https://chat.whatsapp.com/IQthSTc0F9Y7LSRXkyx8j5' //Grupo COL 3
+global.nnnttt = 'https://chat.whatsapp.com/IQthSTc0F9Y7LSRXkyx8j5' //Canal MonkiBot
+global.nnntttt = 'https://chat.whatsapp.com/IQthSTc0F9Y7LSRXkyx8j5' //Grupo ayuda sobre el bot
+global.asistencia = 'wa.me/519367333273' //Dudas? escríbeme...
 
 //⊱ ━━━━━━━━━━━━━.⋅ Datos ⋅.━━━━━━━━━━━━━━ ⊰
 
@@ -156,7 +156,7 @@ global.exito = eg
 //⊱ ━━━━━.⋅ Información ⋅.━━━━ ⊰
 
 global.wm = 'ＳＹＳＴＥＭ Ｘ'
-global.igfg = '𝐒𝐘𝐒𝐓𝐄𝐌 𝐗'
+global.igfg = '𝐁𝐄𝐍𝐉𝐀 𝐆𝐎𝐑𝐃𝐎 𝐓𝐄𝐓𝐎𝐍'
 global.wait = '*⌛ _Cargando..._ ▬▭▭▭▭▭▭*'
 global.waitt = '*⌛ _Cargando..._ ▬▬▭▭▭*'
 global.waittt = '*⌛ _Cargando..._ ▬▬▬▬▭▭*'

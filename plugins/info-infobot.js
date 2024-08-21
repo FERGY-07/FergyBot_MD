@@ -50,7 +50,7 @@ let old = performance.now()
 
 let info = `           \`『ＩＮＦＯ ＤＥＬ ＢＯＴ 』\`
 
-> 🤴🏻 *CREADOR:* Daniel 🇦🇱
+> 🤴🏻 *CREADOR:* VAMOS AL GYM BRO
 > #️⃣ *CONTACTO:* ${asistencia}
 > ✅ *VERSION ACTUAL:* ${vs}
 > 🎳 *PREFIJO:* *${usedPrefix}*
@@ -72,7 +72,7 @@ contextInfo: {
 mentionedJid: [m.sender],
 externalAdReply: {
 title: `IGNA • BOT`,
-sourceUrl: "http://wa.me/51955918117",
+sourceUrl: "http://wa.me/51D55759117",
 mediaType: 1,
 showAdAttribution: true,
 thumbnailUrl: "https://telegra.ph/file/0201b8bffdd9981043023.jpg",

@@ -3,23 +3,6 @@ let handler = async (m, { conn, command }) => {
 let fkontak = { "key": { "participants":"0@s.whatsapp.net", "remoteJid": "status@broadcast", "fromMe": false, "id": "Halo" }, "message": { "contactMessage": { "vcard": `BEGIN:VCARD\nVERSION:3.0\nN:Sy;Bot;;;\nFN:y\nitem1.TEL;waid=${m.sender.split('@')[0]}:${m.sender.split('@')[0]}\nitem1.X-ABLabel:Ponsel\nEND:VCARD` }}, "participant": "0@s.whatsapp.net" }
 let str = `*Hola usuario estos son los grupos ofc de Shana-bot*
 
-📎 *Shana-Bot 🈴*
- 
-https://chat.whatsapp.com/JKTtlxj8K2U4utBtFXhd9Z
-
-📎 *Canal ⭐*
-
-https://whatsapp.com/channel/0029VaBpO8M3rZZdwkGFIP33
-
-⚙️ *Grupos En Colaboración:*
-
-1 _Shana-Bot & NovaBot_
-
-https://chat.whatsapp.com/C7g96LhthOb6I8QMye9GrI
-
-2 SakuraBot & Shana-Bot
-
- https://chat.whatsapp.com/HjtosKShIYcE0xldUFSnkF
 
 ─────────────
 🧿Si se restableció los enlaces comunicate con mi creador usa el comando #creador para comunicarte con el 🌟`
