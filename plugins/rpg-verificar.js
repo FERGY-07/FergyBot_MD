@@ -34,7 +34,7 @@ global.db.data.users[m.sender].joincount += 20
 ┃➔ 450 𝙀𝙭𝙥𝙚𝙧𝙞𝙚𝙣𝙘𝙞𝙖 📚
 ┃➔ 25 𝙏𝙤𝙠𝙚𝙣𝙨 🏴
 ┃➔ 60 𝘿𝙞𝙖𝙢𝙖𝙣𝙩𝙚𝙨 💎
-╰━━━━━━━━━━━━━━━━━╯`, m, {contextInfo: { externalAdReply :{ mediaUrl: null, mediaType: 1, description: null, title: 'ＭＩＺＵＫＩ | ＢＯＴ',  body: '𝐕𝐀𝐘𝐀𝐍 𝐀𝐋 𝐆𝐘𝐌 𝐁𝐑𝐎𝐒: ʙᴇɴᴊᴀᴍɪɴ', previewType: 0, thumbnail: gataImg.getRandom(), sourceUrl: [md, nn, nna, fb].getRandom()}}})
+╰━━━━━━━━━━━━━━━━━╯`, m, {contextInfo: { externalAdReply :{ mediaUrl: null, mediaType: 1, description: null, title: 'FERGY | ＢＯＴ',  body: '𝐕𝐀𝐘𝐀𝐍 𝐀𝐋 𝐆𝐘𝐌 𝐁𝐑𝐎𝐒', previewType: 0, thumbnail: gataImg.getRandom(), sourceUrl: [md, nn, nna, fb].getRandom()}}})
 await m.reply(`${sn}`)}
 handler.help = ['daftar', 'register'].map(v => v + ' <nama>.<umur>')
 handler.tags = ['xp']
