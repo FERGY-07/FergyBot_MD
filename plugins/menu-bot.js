@@ -216,7 +216,7 @@ externalAdReply: {
 title: 'ＳＹＳＴＥＭ Ｘ\n𝐕𝐀𝐘𝐀𝐍 𝐀𝐋 𝐆𝐘𝐌 𝐁𝐑𝐎𝐒 ᴘᴀᴏʟᴏ',
 //body: '𝐕𝐀𝐘𝐀𝐍 𝐀𝐋 𝐆𝐘𝐌 𝐁𝐑𝐎𝐒: ʙᴇɴᴊᴀᴍɪɴ',
 thumbnail: img,
-sourceUrl: 'https://chat.whatsapp.com/IQthSTc0F9Y7LSRXkyx8j5',
+sourceUrl: '',
 mediaType: 1,
 renderLargerThumbnail: true
 }}}, { quoted: m})
