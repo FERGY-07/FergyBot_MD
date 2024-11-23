@@ -121,19 +121,19 @@ global.saludo = "" + hour;
 global.lb = '𝐆𝐎𝐑𝐃𝐎 𝐓𝐄𝐓𝐎𝐍'
 global.vs = '1.5.7'
 global.vsJB = '1.5.0'
-global.yt = 'https://chat.whatsapp.com/IQthSTc0F9Y7LSRXkyx8j5'
-global.ig = 'https://chat.whatsapp.com/IQthSTc0F9Y7LSRXkyx8j5'
-global.md = 'https://chat.whatsapp.com/IQthSTc0F9Y7LSRXkyx8j5'
-global.fb = 'https://chat.whatsapp.com/IQthSTc0F9Y7LSRXkyx8j5'
+global.yt = ''
+global.ig = ''
+global.md = ''
+global.fb = ''
 
-global.nna = 'https://chat.whatsapp.com/IQthSTc0F9Y7LSRXkyx8j5' //Actualización, información sobre el bot
-global.nn = 'https://chat.whatsapp.com/IQthSTc0F9Y7LSRXkyx8j5' //Grupo 1
-global.nnn = 'https://chat.whatsapp.com/IQthSTc0F9Y7LSRXkyx8j5' //Grupo 2
-global.nnnt = 'https://chat.whatsapp.com/IQthSTc0F9Y7LSRXkyx8j5' //Grupo del Colaboracion
-global.nnnt2 = 'https://chat.whatsapp.com/IQthSTc0F9Y7LSRXkyx8j5' // Grupo COL 2
-global.nnntt = 'https://chat.whatsapp.com/IQthSTc0F9Y7LSRXkyx8j5' //Grupo COL 3
-global.nnnttt = 'https://chat.whatsapp.com/IQthSTc0F9Y7LSRXkyx8j5' //Canal MonkiBot
-global.nnntttt = 'https://chat.whatsapp.com/IQthSTc0F9Y7LSRXkyx8j5' //Grupo ayuda sobre el bot
+global.nna = '' //Actualización, información sobre el bot
+global.nn = '' //Grupo 1
+global.nnn = '' //Grupo 2
+global.nnnt = '' //Grupo del Colaboracion
+global.nnnt2 = '' // Grupo COL 2
+global.nnntt = '' //Grupo COL 3
+global.nnnttt = '' //Canal MonkiBot
+global.nnntttt = '' //Grupo ayuda sobre el bot
 global.asistencia = 'wa.me/51929457802' //Dudas? escríbeme...
 
 //⊱ ━━━━━━━━━━━━━.⋅ Datos ⋅.━━━━━━━━━━━━━━ ⊰
