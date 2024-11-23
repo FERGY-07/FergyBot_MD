@@ -13,18 +13,18 @@ import { en, es, id, ar, pt } from './lib/idiomas/total-idiomas.js'
 global.owner = [ 
 ['56986444838842', '𝐃𝐄𝐕𝐄𝐋𝐎𝐏𝐄𝐑 𝐏𝐀𝐎𝐋𝐎', true],
 ['5493751366296', '𝐃𝐄𝐕𝐄𝐋𝐎𝐏𝐄𝐑 𝐃𝐈𝐀𝐍𝐀', true],
-['519367333273'],
-['519367333273'],
-['519367333273'],
-['519367333273'],
-['519367333273'],
-['519367333273'],
-['519367333273'], 
-['519367333273'],
-['519367333273'],
-['519367333273'],
-['519367333273'],
-['519367333273']]
+['51929457802'],
+['51929457802'],
+['51929457802'],
+['51929457802'],
+['51929457802'],
+['51929457802'],
+['51929457802'], 
+['51929457802'],
+['51929457802'],
+['51929457802'],
+['51924335279'],
+['51932073137']]
 
 global.mods = ['56986444838842']
 global.prems = ['56986444838842'],
@@ -54,7 +54,7 @@ global.keysxteammm = ['29d4b59a4aa687ca', '5LTV57azwaid7dXfz5fzJu', 'cb15ed422c7
 global.keysxteam = keysxteammm[Math.floor(keysxteammm.length * Math.random())]
 global.keysneoxrrr = ['5VC9rvNx', 'cfALv5']
 global.keysneoxr = keysneoxrrr[Math.floor(keysneoxrrr.length * Math.random())]
-global.lolkeysapi = 'GordoTeton'
+global.lolkeysapi = 'FergyBot_MD'
 global.itsrose = ['4b146102c4d500809da9d1ff']
 global.baileys = '@whiskeysockets/baileys'
 
@@ -100,7 +100,7 @@ global.moment = moment
 
 //⊱ ━━━━━.⋅ Sticker WM ⋅.━━━━ ⊰
 
-global.packname = '𝐁𝐄𝐍𝐉𝐀 𝐆𝐎𝐑𝐃𝐎 𝐓𝐄𝐓𝐎𝐍'
+global.packname = '𝐆𝐎𝐑𝐃𝐎 𝐓𝐄𝐓𝐎𝐍'
 global.author = '{\n "bot": {\n   "name": "ꜱʏꜱᴛᴇᴍ x",\n     "author": "𝐕𝐀𝐘𝐀𝐍 𝐀𝐋 𝐆𝐘𝐌 𝐁𝐑𝐎𝐒 x",\n   "status_bot": "active"\n }\n}'
 
 
@@ -118,7 +118,7 @@ global.saludo = "" + hour;
 
 //⊱ ━━━━━.⋅ Versión | Nombre | cuentas ⋅.━━━━ ⊰
 
-global.lb = '𝐁𝐄𝐍𝐉𝐀 𝐆𝐎𝐑𝐃𝐎 𝐓𝐄𝐓𝐎𝐍'
+global.lb = '𝐆𝐎𝐑𝐃𝐎 𝐓𝐄𝐓𝐎𝐍'
 global.vs = '1.5.7'
 global.vsJB = '1.5.0'
 global.yt = 'https://chat.whatsapp.com/IQthSTc0F9Y7LSRXkyx8j5'
@@ -134,7 +134,7 @@ global.nnnt2 = 'https://chat.whatsapp.com/IQthSTc0F9Y7LSRXkyx8j5' // Grupo COL 2
 global.nnntt = 'https://chat.whatsapp.com/IQthSTc0F9Y7LSRXkyx8j5' //Grupo COL 3
 global.nnnttt = 'https://chat.whatsapp.com/IQthSTc0F9Y7LSRXkyx8j5' //Canal MonkiBot
 global.nnntttt = 'https://chat.whatsapp.com/IQthSTc0F9Y7LSRXkyx8j5' //Grupo ayuda sobre el bot
-global.asistencia = 'wa.me/519367333273' //Dudas? escríbeme...
+global.asistencia = 'wa.me/51929457802' //Dudas? escríbeme...
 
 //⊱ ━━━━━━━━━━━━━.⋅ Datos ⋅.━━━━━━━━━━━━━━ ⊰
 
@@ -155,13 +155,13 @@ global.exito = eg
 
 //⊱ ━━━━━.⋅ Información ⋅.━━━━ ⊰
 
-global.wm = 'ＳＹＳＴＥＭ Ｘ'
-global.igfg = '𝐁𝐄𝐍𝐉𝐀 𝐆𝐎𝐑𝐃𝐎 𝐓𝐄𝐓𝐎𝐍'
+global.wm = 'FergyBot-MD'
+global.igfg = '𝐆𝐎𝐑𝐃𝐎 𝐓𝐄𝐓𝐎𝐍'
 global.wait = '*⌛ _Cargando..._ ▬▭▭▭▭▭▭*'
 global.waitt = '*⌛ _Cargando..._ ▬▬▭▭▭*'
 global.waittt = '*⌛ _Cargando..._ ▬▬▬▬▭▭*'
 global.waitttt = '*⌛ _Cargando..._ ▬▬▬▬▬▬▭*'
-global.nomorown = 'ꜱʏꜱᴛᴇᴍ x'
+global.nomorown = 'FergyBot-MD'
 global.pdoc = ['application/vnd.openxmlformats-officedocument.presentationml.presentation', 'application/vnd.openxmlformats-officedocument.spreadsheetml.sheet', 'application/vnd.openxmlformats-officedocument.wordprocessingml.document', 'application/vnd.ms-excel', 'application/msword', 'application/pdf', 'text/rtf']
 
 //⊱ ━━━━━.⋅ IMG ⋅.━━━━ ⊰
