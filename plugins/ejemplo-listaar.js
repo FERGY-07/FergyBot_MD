@@ -7,9 +7,9 @@ let handler = async (m, { conn, usedPrefix, command, paypal }) => {
             mentionedJid: [m.sender],
             forwardingScore: 9, 
             externalAdReply: {
-                title: 'ＭＩＺＵＫＩ | ＢＯＴ\n𝐕𝐀𝐘𝐀𝐍 𝐀𝐋 𝐆𝐘𝐌 𝐁𝐑𝐎𝐒: ʙᴇɴᴊᴀᴍɪɴ',
+                title: 'FERGY | ＢＯＴ\n𝐕𝐀𝐘𝐀𝐍 𝐀𝐋 𝐆𝐘𝐌 𝐁𝐑𝐎𝐒',
                 thumbnail: img,
-                sourceUrl: 'https://chat.whatsapp.com/IQthSTc0F9Y7LSRXkyx8j5',
+                sourceUrl: '',
                 mediaType: 1,
                 renderLargerThumbnail: true
             }
